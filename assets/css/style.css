@@ -5,6 +5,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    font-family: 'Lato', sans-serif;
 }
 
 html {
@@ -32,10 +33,12 @@ html {
     --aliceblue: #F8FCFE;
 }
 
+.monospace {
+    font-family: 'Courier New', monospace;
+}
+
 h1 {
-    font-family: 'Lato', sans-serif;
-    font-size: 3rem;
-    color: var(--sabbia2);
+    font-size: 2rem;
 }
 
 @media (min-width: 576px) {
@@ -52,10 +55,24 @@ h1 {
 @media (min-width: 1200px) {}
 
 .main-section {
+    width: 100%;
     min-height: 100vh;
     background-color: var(--dark);
     display: flex;
     align-items: center;
     justify-content: center;
-    text-align: center;
+    /* text-align: center; */
+}
+
+.main-section__inner {
+    /* margin: 0 auto; */
+    /* max-width: 100px; */
+    /* text-align: center; */
+    color: var(--sabbia2);
+}
+
+.pre-title {
+    font-size: 1rem;
+    font-weight: bold;
+    letter-spacing: 3%;
 }
