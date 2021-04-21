@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,400;1,700;1,900&display=swap');
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+:root {
+    --sabbia0: #E7A347;
+    --sabbia1: #EEBF80;
+    --sabbia2: #F6DCB8;
+    --sabbia3: #FDF8F1;
+    --orchidea0: #A347E7;
+    --orchidea1: #BF80EE;
+    --orchidea2: #DCB8F6;
+    --orchidea3: #F8F1FD;
+    --acqua0: #38AFE0;
+    --acqua1: #75C8EA;
+    --acqua2: #B2E0F3;
+    --acqua3: #F0F9FD;
+    --antracite0: #394040;
+    --antracite1: #717F7F;
+    --antracite2: #B0B9B9;
+    --antracite3: #EFF1F1;
+    --dark: #27231E;
+    --aliceblue: #F8FCFE;
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-size: 3rem;
+}
+
+@media (min-width: 576px) {
+    h1 {
+        font-family: 'Lato', sans-serif;
+        font-size: 4rem;
+        color: var(--sabbia2);
+    }
+}
+
+@media (min-width: 768px) {}
+
+@media (min-width: 992px) {}
+
+@media (min-width: 1200px) {}
+
+.main-section {
+    min-height: 100vh;
+    background-color: var(--dark);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
