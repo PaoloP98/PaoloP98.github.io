@@ -58,13 +58,13 @@ h1 {
     width: 100%;
     min-height: 100vh;
     background-color: var(--dark);
-    display: flex;
-    align-items: center;
-    justify-content: center;
     /* text-align: center; */
 }
 
 .main-section__inner {
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
     /* margin: 0 auto; */
     /* max-width: 100px; */
     /* text-align: center; */
@@ -92,4 +92,11 @@ h1 {
     .social-icon {
         max-height: 4rem;
     }
+}
+
+.centered-axis-xy {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
 }
