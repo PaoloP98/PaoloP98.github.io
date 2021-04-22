@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" clip-rule="evenodd" viewBox="0 0 512 512">
+    <g transform="translate(-1.202 -3.26) scale(2.05761)" stroke="#000">
+        <path fill="#E7A347" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="3.78" d="M362.065 192.263c0-12.661-4.825-24.178-12.694-32.728-8.512-9.25-17.969-17.279-17.969-17.279l-95.507 2.25c-25.755 0-46.666 21.399-46.666 47.757l-.815 99.481s5.962 6.812 14.293 15.44c8.462 8.763 20.21 14.197 33.188 14.197h79.504c25.756 0 46.666-21.399 46.666-47.756v-81.362z" transform="matrix(1.32638 0 0 1.29609 -233.735 -169.039)"/>
+        <path fill="#fff" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="3.78" d="M362.065 192.263c0-26.358-20.91-47.757-46.666-47.757h-79.504c-25.755 0-46.666 21.399-46.666 47.757v81.362c0 26.357 20.911 47.756 46.666 47.756h79.504c25.756 0 46.666-21.399 46.666-47.756v-81.362z" transform="matrix(1.32638 0 0 1.29609 -247.49 -182.793)"/>
+        <ellipse cx="306.761" cy="172.815" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="4.26" rx="4.446" ry="8.315" transform="matrix(1.45024 0 0 .77536 -263.688 -77.182)"/>
+        <circle cx="298.892" cy="184.554" r="36.827" fill="#fff" stroke-linecap="round" stroke-miterlimit="1.5" stroke-width="3.44" transform="translate(-312.795 -146.422) scale(1.44062)"/>
+        <path fill="none" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="5" stroke-width="4.95306" d="M217.867 212.087l13.803 13.697M225.949 200.059l13.646 13.962M231.248 185.423l13.692 14.039M232.745 168.442l13.756 14.1M232.873 151.677l13.628 13.991M232.873 135.804l13.628 13.991M232.744 118.827l13.757 14.156M232.873 102.114l13.628 13.991M232.744 84.876l13.757 14.1M232.744 68.008L246.5 82.164M230.59 50.158l13.902 14.308M207.71 221.563l13.573 13.888M197.016 228.506l13.129 13.487M182.8 232.591l13.425 13.818M166.621 233.745l13.367 13.754"/>
+        <path fill="none" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="5" stroke-width="3.58" d="M168.909 58.027l9.577 9.719" transform="matrix(1.35536 0 0 1.41516 -78.05 151.628)"/>
+        <path fill="none" stroke-linecap="round" stroke-linejoin="miter" stroke-miterlimit="5" stroke-width="4.95306" d="M135.008 233.745l13.439 13.754M117.843 233.745l13.41 13.754M101.172 233.745l13.41 13.754M83.841 233.745l13.41 13.754M67.968 233.745L81.407 247.5"/>
+        <path fill="none" stroke-linejoin="miter" stroke-miterlimit="5" stroke-width="4.9596456" d="M51.367 232.02l13.93 14.334"/>
+        <path fill="none" stroke-linejoin="miter" stroke-miterlimit="5" stroke-width="4.960725499999999" d="M39.436 228.29l6.314 9.315"/>
+    </g>
+</svg>

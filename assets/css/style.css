@@ -76,3 +76,20 @@ h1 {
     font-weight: bold;
     letter-spacing: 3%;
 }
+
+.social-icons {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.social-icon {
+    max-height: 2rem;
+    flex-basis: 25%;
+}
+
+@media (min-width: 576px) {
+    .social-icon {
+        max-height: 4rem;
+    }
+}
